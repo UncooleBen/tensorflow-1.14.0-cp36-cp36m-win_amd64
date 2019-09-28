@@ -15,8 +15,8 @@ Feel free to download
    Processor:  Intel(R) Core(TM) i7-9700K  
    Architecture: amd64  
    Bazel Version: 0.24.1  
-   MSVC Version: Visual Studio Buildtools 2017 15.9.16
+   MSVC Version: Visual Studio Buildtools 2017 15.9.16  
    Build Option: /arch:AVX /arch:AVX2 /std:c++14  
-   GPU CUDA Compute Capability: 7.5 
+   GPU CUDA Compute Capability: 7.5  
    GPU: NVIDIA GeForce RTX 2060  
    
