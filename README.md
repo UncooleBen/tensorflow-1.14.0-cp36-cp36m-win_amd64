@@ -9,7 +9,7 @@ Feel free to download
    Bazel Version: 0.26.1  
    MSVC Version: Visual Studio Buildtools 2019 14.23.28105  
    Build Option: /arch:AVX /arch:AVX2  
-2. tensorflow-1.14.0-cuda10-cudnn7-gpu7.5
+2. tensorflow-1.14.0-cuda10-cudnn7-gpu7.5  
    This whl is built under:  
    OS: Windows 10 1903 64-bit  
    Processor:  Intel(R) Core(TM) i7-9700K  
